@@ -6,7 +6,8 @@ Then you go in your file explorer and go to the folder you downloaded the file i
 When you press it you will delete the text in there by pressing the delete button or the backspace button.![Screenshot 2025-04-23 171519](https://github.com/user-attachments/assets/9ffd94d2-bdb3-4345-8501-16b38ea31a6e)
 then write in there cmd. That is going to open the terminal window in the folder you downloaded the calculator.py file.
 Now in the terminal write this "python calculator.py"
-And now enjoy. 
+![Screenshot 2025-04-23 172251](https://github.com/user-attachments/assets/e540270e-72b1-4c81-8bef-69f0de7f0393)
+And now press enter and enjoy. 
 
 This only works on windows and not on macOS.
-if you want to open it in macOS you have to open differently.
+if you want to open it in macOS you have to open it differently.
